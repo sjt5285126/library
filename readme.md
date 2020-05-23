@@ -2,7 +2,7 @@
 第一次springboot Git 练手
 使用:spring boot;mysql;layui(vue.js);jQuery(ajax)
 ***
-[基于csdn博客建立的模型](https://blog.csdn.net/Dimo__/article/details/84936685)
+[详情请看基于csdn博客建立的模型](https://blog.csdn.net/Dimo__/article/details/84936685)
 ### 图书管理系统的基本功能需求
 1. 书籍信息录入
 
