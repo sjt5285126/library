@@ -3,7 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>登录页面</title>
+    <script src="layui/layui.js"></script>
+    <script>
+        layui.use(['layer','form'],function () {
+            var layer=layui.layer,
+                form = layer.form;
+            layer.msg('hello')
+        })
+    </script>
 </head>
+
 <body>
 
 </body>
